@@ -1,0 +1,16 @@
+.morse_code {
+    font-size: 28px;
+    color: blue;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.translation {
+    font-size: 25px;
+    font-weight: bold;
+    color: red;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+* {
+    text-align: center;
+}
